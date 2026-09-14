@@ -221,14 +221,14 @@ document.addEventListener("DOMContentLoaded", function () {
       "Sustainability Hackathon",
       "Nuqta Project · University of Jeddah × INJAZ · 2025",
       "Developed a sustainable solution to reduce beverage waste in retail operations.",
-      "media/achievements/achievement-01.jpeg"
+      "media/achievements/achievement-02.jpeg"
     ],
     [
       "2nd",
       "Volunteer Marathon",
       "University of Jeddah · 2026",
       "Recognized for achieving 1,212 officially recorded volunteer hours.",
-      "media/achievements/achievement-02.jpeg"
+      "media/achievements/achievement-01.jpeg"
     ]
   ];
 
