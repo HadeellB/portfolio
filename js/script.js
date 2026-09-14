@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
       result: "Created an interactive prototype and a functional, user-friendly website.",
       tools: ["Figma", "UI/UX", "Web Development"],
       links: [
-        ["Watch Demo", "media/videos/meditrack-demo.mp4"]
+        ["Watch Demo", "https://drive.google.com/file/d/1EOxS0klVtexF_U2xf8btpWtqanFf8DCN/view?usp=drivesdk4"]
       ]
     },
     {
